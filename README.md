@@ -12,7 +12,7 @@ I built an API for a social network web application where users can share their 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Walkthrough Video](#walkthrough-video)
-- [Screenshoots](#screenshots)
+- [Screenshots](#screenshots)
 - [Questions](#questions)
 
 ## Installation
