@@ -31,7 +31,7 @@ Welcome to Contribute! Fork the repository, create a new branch, and submit a pu
 n/a
 
 ## Walkthrough Video
-<!-- Watch the walkthrough video to see the application in action: [Watch Video](https://app.screencastify.com/v3/watch/nMRvsIc14Ywicsgp6Z2J) -->
+Watch the walkthrough video to see the application in action: [Watch Video](https://app.screencastify.com/v3/watch/ZtuwjqjGlCAUinrPwNgw)
 
 ## Screenshot
 
