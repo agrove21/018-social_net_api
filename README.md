@@ -12,7 +12,7 @@ I built an API for a social network web application where users can share their 
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Walkthrough Video](#walkthrough-video)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
 
 ## Installation
@@ -33,10 +33,10 @@ n/a
 ## Walkthrough Video
 <!-- Watch the walkthrough video to see the application in action: [Watch Video](https://app.screencastify.com/v3/watch/nMRvsIc14Ywicsgp6Z2J) -->
 
-## Screenshots
+## Screenshot
 
 ### File Structure
-<!-- <img src="develop/images/file structure.png" width="800px"> -->
+<img src="./assets/File struture.png" width="800px">
 
 ## Questions
 If you have any questions, you can reach me at [annhargrove21@gmail.com](mailto:annhargrove21@gmail.com). You can also find more of my work at [agrove21](https://github.com/agrove21).
